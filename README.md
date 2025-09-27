@@ -1,9 +1,9 @@
 # Welcome to PyMood's GitHub
 
 ## 🚀 About Me
-- 🧑‍💻 Back-End Developer in progress
-- 💡 Passionate about Python, problem solving, and game design
-- 🌱 Currently learning: **Backend Development**
+- 🧑‍💻 My name is Mahmoud
+- 💡 Passionate about Python, problem solving
+- 🌱 Currently learning: **Machine learning**
 
 ## ⚡ Tech Stack
 - Python 🐍
