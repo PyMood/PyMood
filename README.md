@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🧑‍💻 My name is Mahmoud
 - 💡 Passionate about Python, problem solving
-- 🌱 Currently learning: **Machine learning**
+- 🌱 Currently learning: **web development*
 
 ## ⚡ Tech Stack
 - Python 🐍
